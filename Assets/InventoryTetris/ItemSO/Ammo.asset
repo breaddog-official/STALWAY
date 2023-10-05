@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8deb5acad94106d41ae63ce2083c3644, type: 3}
+  m_Name: Ammo
+  m_EditorClassIdentifier: 
+  nameString: Ammo
+  description: "<b>\u041F\u0430\u0442\u0440\u043E\u043D\u044B.</b>{0}{0}\u0421\u0430\u043C\u044B\u0435
+    \u043E\u0431\u044B\u0447\u043D\u044B\u0435 \u043F\u0430\u0442\u0440\u043E\u043D\u044B{0}\u0431\u0435\u0437
+    \u043A\u0430\u043B\u0438\u0431\u0440\u0430."
+  prefab: {fileID: 5355243795728677712, guid: 7d948824c6d5cf945a55ac6d708b77df, type: 3}
+  visual: {fileID: 2148587555689196983, guid: da95b80c1bf275c439e7e7ed5884f96a, type: 3}
+  width: 1
+  height: 1
+  itemType: 7

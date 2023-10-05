@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 755a6a6175e77cf4c82345b399fd6f78, type: 3}
+  m_Name: Wheelbarrow
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2822445356629665616, guid: e60208e4f61a6ed4093047f778ec4a4b, type: 3}
