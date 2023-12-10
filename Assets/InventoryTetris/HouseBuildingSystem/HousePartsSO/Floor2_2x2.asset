@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615f2b4c10638704cbc7b3b3da7f895d, type: 3}
+  m_Name: Floor2_2x2
+  m_EditorClassIdentifier: 
+  nameString: Floor 2x2
+  prefab: {fileID: 4782235985580720507, guid: dd44c2f5869f832489a65e805fb5d5a2, type: 3}
+  visual: {fileID: 2499414142690952232, guid: 1f848667532002e43b8a183b4b5acb32, type: 3}
+  width: 2
+  height: 2

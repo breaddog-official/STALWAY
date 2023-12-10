@@ -2,7 +2,6 @@
 using UnityEngine;
 using System;
 using System.IO;
-using static TopDownShooter.BattleSystem_Done;
 
 namespace Core
 {

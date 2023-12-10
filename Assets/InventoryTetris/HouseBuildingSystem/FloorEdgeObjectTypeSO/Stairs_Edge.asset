@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cb5698ebd535be4dbf10ba644cfa498, type: 3}
+  m_Name: Stairs_Edge
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4782235985580720507, guid: 0dc052f07179c1a49aba7519ed313986, type: 3}
+  visual: {fileID: 2499414142690952232, guid: bcb52bce1599a964fb2c94de85cb6413, type: 3}
